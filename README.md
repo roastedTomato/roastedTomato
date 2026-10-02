@@ -7,13 +7,13 @@ I'm a Master of Information Technology student at the University of Waikato, New
 | Project | Focus |
 | --- | --- |
 | [Blog Web System](https://github.com/roastedTomato/Blog-Web-System) | Full-stack blogging application using Node.js, Express, Handlebars and MariaDB, with authentication, rich-text articles, image uploads, comments and likes. |
-| [Waikato Women in STEM Website](https://github.com/roastedTomato/waikato-women-in-stem-website) | Independently designed and built with Rocketspark and custom HTML/CSS, featuring a purple theme, four responsive pages and AI-generated imagery. Includes desktop/mobile screenshots. |
+| [Java Inventory & POS](https://github.com/roastedTomato/java-inventory-pos) | Java Swing desktop application for inventory management, cart checkout, receipt generation and JSON storage. |
 | [Wear OS Sensor Companion](https://github.com/roastedTomato/wearos-sensor-companion) | Kotlin and Jetpack Compose phone/watch apps for motion and heart rate readings, Data Layer communication and live charts. |
 | [Jena Climate Forecasting](https://github.com/roastedTomato/jena-climate-forecasting) | Conv1D + LSTM temperature forecasting with reusable Python modules, command-line training, chronological evaluation and a persistence baseline. |
 
 ## Technologies I work with
 
-- **Frontend & websites:** HTML, CSS, JavaScript, TypeScript, Vue/Nuxt, Rocketspark
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Vue/Nuxt
 - **Backend & databases:** Node.js, Express, Handlebars, MariaDB, SQL
 - **Desktop & wearable apps:** Java/Swing, Kotlin/Jetpack Compose
 - **Machine learning:** Python, NumPy, pandas, TensorFlow, Keras, Jupyter
