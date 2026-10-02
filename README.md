@@ -33,11 +33,4 @@ I contribute to [Mealie](https://github.com/mealie-recipes/mealie), an open-sour
 | Ingredient parsing | Added a prompt rule to keep compound ingredient input as a single parsed item, with secondary quantities in notes. Added a regression test and documented manual verification. | [#8138](https://github.com/mealie-recipes/mealie/pull/8138) |
 | Frontend package management | Pinned pnpm and aligned package-manager configuration so Corepack selects the intended version. | [#8322](https://github.com/mealie-recipes/mealie/pull/8322) |
 
-### Open pull requests
-
-| Proposed improvement | What the PR changes | PR |
-| --- | --- | --- |
-| PWA startup reliability | Adds Nuxt build metadata to the PWA precache and makes backend metadata caching revalidate, with regression tests for metadata and regular assets. | [#8392](https://github.com/mealie-recipes/mealie/pull/8392) |
-| Ingredient review layout | Stacks fields in parsing dialogs to keep long unit names readable. Includes documented desktop/mobile checks and lint validation. | [#8604](https://github.com/mealie-recipes/mealie/pull/8604) |
-
 PR statuses last checked on **2 October 2026**. Each link provides the implementation, discussion and latest status. AI assistance is disclosed in the individual PRs.
