@@ -2,15 +2,6 @@
 
 I'm a Master of Information Technology student at the University of Waikato, New Zealand. I build full-stack web applications, websites, wearable apps and machine learning projects, and contribute frontend and Python backend fixes to open-source software.
 
-## Selected projects
-
-| Project | Focus |
-| --- | --- |
-| [Blog Web System](https://github.com/roastedTomato/Blog-Web-System) | Full-stack blogging application using Node.js, Express, Handlebars and MariaDB, with authentication, rich-text articles, image uploads, comments and likes. |
-| [Java Inventory & POS](https://github.com/roastedTomato/java-inventory-pos) | Java Swing desktop application for inventory management, cart checkout, receipt generation and JSON storage. |
-| [Wear OS Sensor Companion](https://github.com/roastedTomato/wearos-sensor-companion) | Kotlin and Jetpack Compose phone/watch apps for motion and heart rate readings, Data Layer communication and live charts. |
-| [Jena Climate Forecasting](https://github.com/roastedTomato/jena-climate-forecasting) | Conv1D + LSTM temperature forecasting with reusable Python modules, command-line training, chronological evaluation and a persistence baseline. |
-
 ## Technologies I work with
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, Vue/Nuxt
